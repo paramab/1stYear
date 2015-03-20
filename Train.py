@@ -1,6 +1,5 @@
 # Course: CS 1MD3
 # Name:  Barane Paramanathan
-# Student number: 1135924
 # File: assign4.py
 # Description: Program which runs a train across the screen
 
